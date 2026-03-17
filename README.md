@@ -1,5 +1,7 @@
 # spidey2000-tools
 
+> **Note:** This project is no longer being maintained. Character/model import is broken, and there are some remaining UV and texture issues on certain maps. Feel free to fork and build on it.
+
 Blender addon and asset extraction tools for **Spider-Man (2000) PC** — the Neversoft / LTI Gray Matter / Activision classic.
 
 Import 3D maps, character models, and textures directly into Blender 4.4+. Extract all audio and video from the game's archives to standard formats.
