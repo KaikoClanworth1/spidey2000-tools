@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Game data (not distributed)
+*.pkr
+*.PKR
+
+# Export outputs (generated, not tracked)
+audio_export/
+video_export/
+tex_dump*/
+
+# Debug/diagnostic dumps
+*.png
+!screenshots/*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Blender addon deployment cache
+*.blend
+*.blend1
