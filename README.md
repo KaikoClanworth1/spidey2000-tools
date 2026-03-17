@@ -1,5 +1,7 @@
 # spidey2000-tools
 
+![SURF THE WEB](screenshots/SURFTHEWEB.gif)
+
 > **Note:** This project is no longer being maintained. Character/model import is broken, and there are some remaining UV and texture issues on certain maps. Feel free to fork and build on it.
 
 Blender addon and asset extraction tools for **Spider-Man (2000) PC** — the Neversoft / LTI Gray Matter / Activision classic.
